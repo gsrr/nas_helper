@@ -1,0 +1,3 @@
+module_name=dhcp_test
+cli_position=Service
+lib_position=Service
